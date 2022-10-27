@@ -1,5 +1,6 @@
 # MSI-GL72-6QD-Monterey-12.6.1-Opencore-8.5
 If you encounter any errors, don't forget to contact us here.
+Don't forget to customize PlatformInfo!
 
 - System features;
 - Laptop Model: MSI GL72 6QD-077XTR
@@ -38,7 +39,7 @@ If you encounter any errors, don't forget to contact us here.
 - Camera (The reason why the camera does not work is a hardware error.)
 # Türkçe Hali:
  Herhangi bir hata ile karşılaşırsanız buradan bizimle iletişime geçmeyi unutmayınız.
-
+Platform Info'yu kendinize göre düzenlemeyi unutmayın!
 - Sistem özellikleri;
 - Dizüstü Bilgisayar Modeli: MSI GL72 6QD-077XTR
 - CPU: I7 6700HQ
